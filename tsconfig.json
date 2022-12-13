@@ -21,6 +21,4 @@
     "baseUrl": "src",
     "incremental": true,
   },
-  "include": ["./src/**/*"],
-  "exclude": ["node_modules"]
 }
